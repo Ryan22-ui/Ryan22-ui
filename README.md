@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Ryan22-ui
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Ryan 👋
 
-<!---
-Ryan22-ui/Ryan22-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📊 Building business-focused data analytics projects
+- 🛠️ Working with SQL, Power BI, Excel, Power Query, and Python
+- 📈 Interested in pricing, customer behavior, risk, operations, and product analytics
+- 🌱 Expanding into statistics, machine learning, and data science
+- 🤝 Open to analytics and data science collaborations
+- 💼 Exploring Data Analyst and Data Scientist opportunities
+
+## Tech Stack
+`SQL` · `Power BI` · `Python` · `Pandas` · `Excel` · `Power Query` · `Git`
